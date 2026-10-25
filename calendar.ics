@@ -3,22 +3,19 @@ VERSION:2.0
 PRODID:-//Travel Planner//Sanya 2026//ZH-CN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:何春共享日历
-X-WR-CALDESC:2026年10月24—29日三亚行程，北京时间。早餐用
- 酒店套餐；午晚餐来自独立实体餐厅，酒店日优先外卖
- ，游览日顺路堂食。25日15楼免费无边泳池及两餐外卖；2
- 6日南山→三亚湾坐休→椰梦长廊→琼乡阁晚餐→酒店；2
- 7日奇林幻境可选轻玩、11:20塔可Taco的菜单专场、套餐旅
- 拍及两餐外卖；28日水族馆接海棠68椰小鸡午餐，下午17:2
- 0家庭泡泡秀可选，替换挖沙不叠加，晚餐外卖；29日10:30
- 牧羊兜兜可选短参与至10:50，外卖早午餐后退房。酒店项
- 目按提供的主题课表细化，实际举办、家庭场幼儿参加
- 条件、费用及预约须管家确认，不默认托管。外卖配送
- 范围、预计送达和酒店交接需实际确认，不保证送房。27
- 日旅拍最迟26日20:00预约，提前至25日晚提醒。24日仅保留
- 参考，25日已发生行程以实际为准。25日起方案打车预算5
- 65—830元，可预留1000元含临时调整，机场不计；含24日参
- 考605—900元。餐费及配送包装、儿童座椅服务、升级车
- 型、包车候时另计。
+X-WR-CALDESC:2026年10月24—29日三亚行程，北京时间。早餐酒
+ 店套餐，午晚餐采用外部实体店堂食或外卖。24—25日保
+ 留原记录，不补排已过去活动。26日南山→三亚湾坐休→
+ 椰梦长廊→琼乡阁晚餐→酒店。27日可选奇林幻境轻玩或
+ 10:30黏黏玉米粒，11:20塔可Taco的菜单2—3岁专场，下午套
+ 餐旅拍。28日水族馆接椰小鸡午餐，14:30果串集结2—3岁
+ 专场，17:20家庭泡泡秀，18:15外卖晚餐；可按状态取消，
+ 沙滩或无边池只作替代。29日10:30牧羊兜兜可选短参与至1
+ 0:50，11:00早午餐、11:40退房。活动依据用户提供的星期课
+ 表，实际举办、费用和参加条件以酒店确认为准，不代
+ 表已预约。外卖配送与交接仍需实时确认。27日旅拍最迟
+ 26日20:00预约。打车方案仍为25日起565—830元，含24日参考
+ 605—900元，机场不计；餐费、配送及升级车型另计。
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
@@ -32,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:7fc5f86a-59e7-5f29-9c95-09008c39b3e5@travel.local
-DTSTAMP:20261025T124830Z
+DTSTAMP:20261025T125934Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261029
 SUMMARY:仁恒皇冠住宿｜5晚，29日退房
@@ -42,65 +39,74 @@ DESCRIPTION:24日入住，24—28日共5晚，29日退房。两位成人及
  体餐厅，酒店日优先配送，游览日顺路堂食。外卖取餐
  点、能否协助取送及可用用餐位置先与管家确认，不保
  证送房。\n酒店礼宾：0898-88759888 转7606。\n\n住店特色安
- 排：25日下午15楼270°无边泳池；27日上午奇林幻境低龄区
- 可选轻玩、11:20—11:40「塔可Taco的菜单」2—3岁专场，下
- 午使用套餐旅拍；28日17:20—17:50家庭泡泡秀可选，替换
- 挖沙不叠加；29日10:30「牧羊兜兜」仅短参与至10:50。活
- 动来自提供的课表，实际举办、费用及参加条件须确认
- 。\nIHG官网顶楼无边泳池列Daily fee 0 CNY，恒温且有救生员
- ，列有浴巾及儿童救生衣；开放时间字段异常，不能按24
- 小时开放理解。官网注明泳池区域轮椅可达、各楼层有
- 电梯，具体到池畔的路线请管家指引。\n你提供的套餐包
- 含奇林幻境、每日儿童活动、每天一次0—3岁辅食、挖沙
- 工具和沙滩躺椅、20项可借用品及一次旅拍。辅食为胡萝
- 卜泥／南瓜泥／虾仁蔬菜粥／牛肉胡萝卜粥／蒸鸡蛋羹
- 五选一，按当天预约和供应领取，不累计、不替代正餐
- 。用品以酒店清单与库存为准。首日水果和迷你吧是一
- 次性权益，不按每天补充安排。\nSPA只有折扣；270°餐吧
- 饮品、下午茶、儿童餐厅正餐和额外旅拍选片不列为免
- 费项目。\n官方设施：https://www.ihg.com/crowneplaza/hotels/cn/zh/
- sanya/syxcr/hoteldetail/amenities\n官方亲子介绍：https://www.visits
- anya.com/zh/accommodation/三亚海棠湾仁恒皇冠假日度假酒店\n\
- n游玩期间预估打车预算（不含机场接送，全家一辆车，
- 非人均）：\n10月24日：外出晚餐往返40—70元，已过去，
- 仅列参考，不视为实际花费。\n10月25日：酒店活动、午
- 晚餐外卖，计划打车0元。\n10月26日：酒店 → 南山240—32
- 0元；南山 → 三亚湾110—170元；休息点额外接驳预留20—
- 40元；海边 → 琼乡阁10—25元；琼乡阁 → 酒店130—180元
- ；合计510—735元。若无需休息点接驳，可少花该项预留
- 。\n10月27日：酒店活动及旅拍、午晚餐外卖，计划打车0
- 元。\n10月28日：酒店 → 水族馆15—25元；水族馆 → 海棠
- 68椰小鸡午餐 → 酒店40—70元；晚餐外卖，合计55—95元
- 。\n10月29日：早午餐外卖，计划餐饮打车0元，机场接送
- 不计入。\n从10月25日起方案打车预算约565—830元，可预
- 留1000元含临时调整余量；如连24日参考方案一起计算，
- 完整计划约605—900元。按相同口径对比上一版，预算区
- 间下限减少200元、上限减少360元，不承诺实际节省固定
- 金额。25日如有已发生行程，以实际为准，不把原计划改
- 写为实际消费。六次外卖的配送包装可另预留30—120元，
- 仅是预算余量，结算页可能不同；餐费、跑腿费、饮品
- 和包车候时另计。机场接送按已提供的安排执行，不在
- 此重复计算。\n估算口径：人民币，一辆普通巡游出租车
- 供本次三人合乘，不是人均；按路线距离粗估并留余量
- ，未取得实时导航或叫车报价。实际以计价器为准，普
- 通网约车可能更便宜，也可能有动态加价。不含包车候
- 时、另收的停车费、儿童安全座椅服务及升级专车或商
- 务车的费用。\n预约前说明两位成人、一位幼儿、折叠手
- 动轮椅及行李件数，并确认适龄儿童安全座椅与后备厢
- 空间。普通出租车不能默认提供儿童安全座椅；如需配
- 座椅或升级车型，按商家确认报价替换本估算。\n费率参
- 考：凤凰机场官网公示一／二类出租车起步11／10元（2.5
- 公里），超起步后2.4／2.2元每公里，超过10公里部分综合
- 3.6／3.3元每公里。路线费用是据此所作预算，不是官网
- 提供的线路报价。\n来源：https://www.sanyaairport.com/czqc
+ 排：25日原计划为15楼270°无边泳池，已过去，仅保留记
+ 录。27日上午可选奇林幻境轻玩或10:30「黏黏玉米粒」家
+ 庭场，11:20「塔可Taco的菜单」为2—3岁专场；下午沿用套
+ 餐旅拍。28日14:30「果串集结」2—3岁专场、17:20家庭泡泡
+ 秀，按状态可跳过；晚餐18:15。29日10:30「牧羊兜兜」仅
+ 在不影响午餐退房时短参与至10:50。普通3—8岁游戏、3—
+ 12岁美食课程及8岁以上运动项目不纳入孩子的计划；未
+ 将通用成人瑜伽安排给孕妇。\nIHG官网顶楼无边泳池列Dai
+ ly fee 0 CNY，恒温且有救生员，列有浴巾及儿童救生衣；
+ 开放时间字段异常，不能按24小时开放理解。官网注明泳
+ 池区域轮椅可达、各楼层有电梯，具体到池畔的路线请
+ 管家指引。\n你提供的套餐包含奇林幻境、每日儿童活动
+ 、每天一次0—3岁辅食、挖沙工具和沙滩躺椅、20项可借
+ 用品及一次旅拍。辅食为胡萝卜泥／南瓜泥／虾仁蔬菜
+ 粥／牛肉胡萝卜粥／蒸鸡蛋羹五选一，按当天预约和供
+ 应领取，不累计、不替代正餐。用品以酒店清单与库存
+ 为准。首日水果和迷你吧是一次性权益，不按每天补充
+ 安排。\nSPA只有折扣；270°餐吧饮品、下午茶、儿童餐厅
+ 正餐和额外旅拍选片不列为免费项目。\n官方设施：https:
+ //www.ihg.com/crowneplaza/hotels/cn/zh/sanya/syxcr/hoteldetail/amenities\n
+ 官方亲子介绍：https://www.visitsanya.com/zh/accommodation/三亚海
+ 棠湾仁恒皇冠假日度假酒店\n依据你提供的仁恒皇冠「美
+ 洲风味之旅」活动表：27日周二为墨西哥主题，28日周三
+ 为巴西主题，29日周四为阿根廷主题。这是行程安排，不
+ 是报名或预约回执。实际举办、家庭场幼儿参加条件、
+ 是否包含住店套餐及临时名额由酒店当天确认；表中未
+ 标预约不等于保证随到随进。幼儿须成人全程陪同，不
+ 默认托管。\n\n游玩期间预估打车预算（不含机场接送，
+ 全家一辆车，非人均）：\n10月24日：外出晚餐往返40—70
+ 元，已过去，仅列参考，不视为实际花费。\n10月25日：
+ 酒店活动、午晚餐外卖，计划打车0元。\n10月26日：酒店 
+ → 南山240—320元；南山 → 三亚湾110—170元；休息点额
+ 外接驳预留20—40元；海边 → 琼乡阁10—25元；琼乡阁 →
+  酒店130—180元；合计510—735元。若无需休息点接驳，可
+ 少花该项预留。\n10月27日：酒店活动及旅拍、午晚餐外
+ 卖，计划打车0元。\n10月28日：酒店 → 水族馆15—25元；
+ 水族馆 → 海棠68椰小鸡午餐 → 酒店40—70元；晚餐外卖
+ ，合计55—95元。\n10月29日：早午餐外卖，计划餐饮打车0
+ 元，机场接送不计入。\n从10月25日起方案打车预算约565
+ —830元，可预留1000元含临时调整余量；如连24日参考方
+ 案一起计算，完整计划约605—900元。按相同口径对比上
+ 一版，预算区间下限减少200元、上限减少360元，不承诺
+ 实际节省固定金额。25日如有已发生行程，以实际为准，
+ 不把原计划改写为实际消费。六次外卖的配送包装可另
+ 预留30—120元，仅是预算余量，结算页可能不同；餐费、
+ 跑腿费、饮品和包车候时另计。机场接送按已提供的安
+ 排执行，不在此重复计算。\n估算口径：人民币，一辆普
+ 通巡游出租车供本次三人合乘，不是人均；按路线距离
+ 粗估并留余量，未取得实时导航或叫车报价。实际以计
+ 价器为准，普通网约车可能更便宜，也可能有动态加价
+ 。不含包车候时、另收的停车费、儿童安全座椅服务及
+ 升级专车或商务车的费用。\n预约前说明两位成人、一位
+ 幼儿、折叠手动轮椅及行李件数，并确认适龄儿童安全
+ 座椅与后备厢空间。普通出租车不能默认提供儿童安全
+ 座椅；如需配座椅或升级车型，按商家确认报价替换本
+ 估算。\n费率参考：凤凰机场官网公示一／二类出租车起
+ 步11／10元（2.5公里），超起步后2.4／2.2元每公里，超过1
+ 0公里部分综合3.6／3.3元每公里。路线费用是据此所作预
+ 算，不是官网提供的线路报价。\n来源：https://www.sanyaairp
+ ort.com/czqc
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:9
-LAST-MODIFIED:20261025T124830Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6b24d36f-1d90-53c8-b1d3-2dcfdc47442c@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261024T121000
 DTEND;TZID=Asia/Shanghai:20261024T144000
 SUMMARY:CZ8752｜成都天府 → 三亚凤凰
@@ -110,8 +116,8 @@ DESCRIPTION:南方航空CZ8752。票面起飞12:10，抵达14:40，均为
  件、产检资料、日常用药和儿童用品。
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT120M
@@ -120,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6d8d3a74-7301-5877-9a51-f834b8b1c8f8@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261024T144000
 DTEND;TZID=Asia/Shanghai:20261024T173000
 SUMMARY:抵达、接送与酒店入住（接送方式待确认）
@@ -135,12 +141,12 @@ DESCRIPTION:此时段包含取行李、候车、前往酒店和入住。优
  按已提供的接送安排执行。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9c5ce9e7-a563-53e1-9f5c-7efa292d660d@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261024T173000
 DTEND;TZID=Asia/Shanghai:20261024T180000
 SUMMARY:入住后：集中确认预约及酒店权益
@@ -158,12 +164,12 @@ DESCRIPTION:两位成人（其中一位孕30周）及一位2岁10个月儿
  及能否协助取送；未下单、未预约配送。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:045bf447-f347-58ea-b706-143d175cf659@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261024T180000
 DTEND;TZID=Asia/Shanghai:20261024T194500
 SUMMARY:外出晚餐｜琼州味道（24日原计划参考）
@@ -200,12 +206,12 @@ DESCRIPTION:本次修订日期为10月25日，24日已过去。这一项是
  源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:03bc288c-59fa-5f37-b24a-a9befe1d9ee4@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T080000
 DTEND;TZID=Asia/Shanghai:20261025T090000
 SUMMARY:酒店自助早餐（套餐已含）
@@ -219,12 +225,12 @@ DESCRIPTION:酒店西餐厅。套餐含每日2大2小早餐，儿童12岁
  当日免费儿童活动表，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4f8d694e-89e5-5a37-8805-92efba97d13f@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T093000
 DTEND;TZID=Asia/Shanghai:20261025T103000
 SUMMARY:酒店亲子活动／短时玩沙
@@ -234,12 +240,12 @@ DESCRIPTION:按当日活动表选择适合未满3岁儿童的项目。儿
  用酒店权益；海棠湾安排玩沙、散步，不安排下海。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:272339b1-9d5b-5550-87d1-1ec77b155884@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T114500
 DTEND;TZID=Asia/Shanghai:20261025T123000
 SUMMARY:外卖午餐｜绿茶候选，提前查看配送
@@ -285,8 +291,8 @@ DESCRIPTION:10:45提醒查看配送，目标11:45左右用餐，不保证
  //www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -295,7 +301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fe294608-90ea-559b-ac19-cf2b3604778f@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T123000
 DTEND;TZID=Asia/Shanghai:20261025T150000
 SUMMARY:酒店自由活动／坐休（按状态调整）
@@ -305,12 +311,12 @@ DESCRIPTION:午餐后留在酒店，房间休息、花园或适龄儿童活
  :00查看晚餐配送。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a72199fb-22ec-55b9-9ddb-de572986b81b@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T151500
 DTEND;TZID=Asia/Shanghai:20261025T153000
 SUMMARY:管家确认｜免费泳池、亲子课表及用品
@@ -343,8 +349,8 @@ DESCRIPTION:先确认今天15:45顶楼泳池是否开放、房卡入场方
  酒店
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -353,7 +359,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:079bb680-5638-5cd6-9bbf-361f95279609@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T154500
 DTEND;TZID=Asia/Shanghai:20261025T164500
 SUMMARY:15楼270°无边泳池｜住店免费·观海拍照／可选游泳
@@ -379,8 +385,8 @@ DESCRIPTION:预留一小时包含前往、换装和擦干更衣，实际池
  laza/hotels/cn/zh/sanya/syxcr/hoteldetail/amenities
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -390,7 +396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ca90d1b1-27de-5d50-93ce-772e56ca67f3@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T180000
 DTEND;TZID=Asia/Shanghai:20261025T190000
 SUMMARY:外卖晚餐｜琼州味道候选，酒店用餐
@@ -436,8 +442,8 @@ DESCRIPTION:本条已移到25日。17:00提醒查看配送，目标18:00左
  官网提供的线路报价。\n来源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -446,7 +452,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b0b6e120-f80a-528c-a221-38ba77005c24@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261025T200000
 DTEND;TZID=Asia/Shanghai:20261025T200500
 SUMMARY:提前确认27日旅拍｜最迟26日20:00
@@ -460,8 +466,8 @@ DESCRIPTION:25日晚提前联系酒店确认27日旅拍，避免26日晚从
  价，无人机受天气影响。\n酒店礼宾：0898-88759888 转7606。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT120M
@@ -470,7 +476,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:de056e3c-e711-524d-9527-f96694f133c6@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T070000
 DTEND;TZID=Asia/Shanghai:20261026T074500
 SUMMARY:提前早餐｜为南山出发留时间
@@ -478,15 +484,17 @@ LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号
 DESCRIPTION:酒店西餐厅，套餐已含。早餐后取齐轮椅、儿童
  用品、水和随身资料，准备8点出发。\n26日在外时间长，
  当天辅食能否早取或晚取需提前确认；不为领取辅食返
- 回酒店或久放携带。
+ 回酒店或久放携带。\n出发前联系管家确认27日旅拍档期
+ （最迟今天20:00前预约），并核对27—29日下列适龄活动
+ 是否含套餐及参加规则；不必为此返回酒店。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c9df6a09-0781-5be1-849b-5765249dde1e@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T080000
 DTEND;TZID=Asia/Shanghai:20261026T100000
 SUMMARY:前往南山海上观音（用车待预约）
@@ -517,8 +525,8 @@ DESCRIPTION:26日路线：仁恒皇冠 → 南山海上观音 → 三亚湾
  irport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -527,7 +535,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fce6a766-8a6c-5842-b583-4b0122a7ca6d@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T100000
 DTEND;TZID=Asia/Shanghai:20261026T113000
 SUMMARY:南海观音｜主要区域礼佛、看海、拍照
@@ -540,12 +548,12 @@ DESCRIPTION:配合景区观光车和手动轮椅，只游览主要区域。
  nanshan/aqts.html
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:521087eb-2b7b-5540-938e-85a68300edd3@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T113000
 DTEND;TZID=Asia/Shanghai:20261026T123000
 SUMMARY:南山午餐｜海景素斋（无障碍路线确认后选）
@@ -563,12 +571,12 @@ DESCRIPTION:海景素斋为顺路候选，有观音窗景座位，但不能
  /you.ctrip.com/food/61/118823615.html
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:da6683d1-2ad7-5cb3-8926-405a7269c05d@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T123000
 DTEND;TZID=Asia/Shanghai:20261026T134500
 SUMMARY:南山 → 三亚湾休息点（不绕回酒店）
@@ -595,12 +603,12 @@ DESCRIPTION:午餐后直接从南山前往三亚湾。为等车、上下车
  ort.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f006e7dd-9c9a-57a3-89af-8c72b63312b9@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T134500
 DTEND;TZID=Asia/Shanghai:20261026T154500
 SUMMARY:三亚湾弹性坐休｜阴凉处／室内喝水歇脚
@@ -633,12 +641,12 @@ DESCRIPTION:按本次意愿只安排阴凉处或室内坐休，不安排钟
  提供的线路报价。\n来源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a082a4-9e50-5b3d-8b79-045ef7e28198@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T154500
 DTEND;TZID=Asia/Shanghai:20261026T181500
 SUMMARY:椰梦长廊｜椰林海景、短走多坐、日落随缘
@@ -656,8 +664,8 @@ DESCRIPTION:休息后在海月广场段或司机确认的方便落客位置
  6772.html
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -666,7 +674,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9925e29e-b1bb-5605-be1f-091da55f7144@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T181500
 DTEND;TZID=Asia/Shanghai:20261026T191500
 SUMMARY:三亚湾晚餐｜琼乡阁·海南菜（含短途接驳，待订
@@ -700,12 +708,12 @@ DESCRIPTION:看完日落后前往三亚湾店就近用餐，时间包含从
  ps://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2d3962d9-8528-5916-a47b-74f92a0019cf@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261026T191500
 DTEND;TZID=Asia/Shanghai:20261026T204500
 SUMMARY:三亚湾晚餐后返回仁恒皇冠
@@ -729,12 +737,12 @@ DESCRIPTION:晚餐后直接返店，预留约1—1.5小时交通缓冲；
  源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0da8390a-d6b5-52d7-b810-774f42863dd4@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T080000
 DTEND;TZID=Asia/Shanghai:20261027T090000
 SUMMARY:酒店自助早餐（套餐已含）
@@ -748,66 +756,86 @@ DESCRIPTION:酒店西餐厅。套餐含每日2大2小早餐，儿童12岁
  当日免费儿童活动表，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:03e94025-e4db-5522-b65e-7b97ac943578@travel.local
-DTSTAMP:20261025T124830Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T093000
 DTEND;TZID=Asia/Shanghai:20261027T102000
-SUMMARY:奇林幻境低龄区轻玩｜可缩短，为11:20专场留体力
+SUMMARY:可选｜奇林幻境低龄区轻玩
 LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号
-DESCRIPTION:上午选一个适合幼儿的区域轻玩约30—40分钟，
- 留时间喝水和上卫生间。套餐包含1000㎡奇林幻境；实际
- 允许进入的区域和开放时段以酒店为准。优先低龄、平
- 层活动，不默认2岁10个月可玩全部攀爬设施。孕妇可以
- 在方便到达的座位休息，另一位成人近身陪同孩子，不
- 安排无成人陪伴的托管。\n本时段是行程预留，不是酒店
- 已确认的活动场次，也未代为预约。先向管家核对当天
- 活动表、费用及2岁10个月儿童的参加条件。三人结伴，
- 幼儿由成人全程陪同；有工作人员或救生员不等于可托
- 管。可以只做一项或缩短，不为凑项目赶场。\n官方亲子
- 设施介绍：https://www.visitsanya.com/zh/accommodation/三亚海棠湾
- 仁恒皇冠假日度假酒店\n今天主活动为11:20—11:40「塔可Ta
- co的菜单」。本段自由轻玩可缩短或跳过；10:20后喝水、
- 如厕和坐休，不连赶10:30家庭课。
+DESCRIPTION:套餐包含奇林幻境。只选适龄低龄区轻玩，家长
+ 近身陪同，不默认可使用全部攀爬设施。孕妇在方便到
+ 达的位置坐休。本段可以缩短或跳过；若参加10:30家庭活
+ 动，上午不再叠加长时间自由玩，优先保留11:20的2—3岁
+ 专场。\n依据你提供的仁恒皇冠「美洲风味之旅」活动表
+ ：27日周二为墨西哥主题，28日周三为巴西主题，29日周
+ 四为阿根廷主题。这是行程安排，不是报名或预约回执
+ 。实际举办、家庭场幼儿参加条件、是否包含住店套餐
+ 及临时名额由酒店当天确认；表中未标预约不等于保证
+ 随到随进。幼儿须成人全程陪同，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:9
-LAST-MODIFIED:20261025T124830Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
+END:VEVENT
+BEGIN:VEVENT
+UID:58b97ccb-0e16-5337-bb42-4a9e80ca316a@travel.local
+DTSTAMP:20261025T125934Z
+DTSTART;TZID=Asia/Shanghai:20261027T103000
+DTEND;TZID=Asia/Shanghai:20261027T110000
+SUMMARY:可选｜黏黏玉米粒（家庭场）
+LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号，奇
+ 林幻境
+DESCRIPTION:周二墨西哥主题家庭活动。让孩子按能力参加，
+ 由成人陪同；与上午自由轻玩择轻安排，不要求两个项
+ 目都完成。结束后11:00查看翠华午餐外卖，预留20分钟喝
+ 水、如厕，再决定是否参加11:20专场。若孩子需要休息，
+ 可跳过本场，只参加11:20活动。\n依据你提供的仁恒皇冠
+ 「美洲风味之旅」活动表：27日周二为墨西哥主题，28日
+ 周三为巴西主题，29日周四为阿根廷主题。这是行程安排
+ ，不是报名或预约回执。实际举办、家庭场幼儿参加条
+ 件、是否包含住店套餐及临时名额由酒店当天确认；表
+ 中未标预约不等于保证随到随进。幼儿须成人全程陪同
+ ，不默认托管。
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0eedf0-b4ba-5730-a84c-8d7af67ff88d@travel.local
-DTSTAMP:20261025T124830Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T112000
 DTEND;TZID=Asia/Shanghai:20261027T114000
-SUMMARY:塔可Taco的菜单｜2—3岁专场·周二
-LOCATION:仁恒皇冠假日酒店·奇林幻境
-DESCRIPTION:周二墨西哥玉米狂欢，小月龄2—3岁专场，11:20
- —11:40。11:10左右到场、喝水和上卫生间，结束后回房或
- 用餐点，保留至12:00午餐的缓冲。11:00先处理午餐配送事
- 项。\n替换原10:30泛化「手工／小厨师」预留；不默认参
- 加11:10的3—8岁「寻找金色玉米神」，也不报名3—12岁预
- 约美食手工「墨西哥鸡肉卷」。10:30家庭场「黏黏玉米粒
- 」仅作为本专场取消时的替代，不叠加。\n依据10月25日
- 提供的酒店「美洲风味之旅」活动表；实际举办、家庭
- 场幼儿参加条件、费用及预约要求请酒店当天确认，日
- 历不代表报名成功。幼儿须成人全程陪同，不默认托管
- 。
+SUMMARY:塔可Taco的菜单｜2—3岁专场
+LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号，奇
+ 林幻境
+DESCRIPTION:周二小月龄专场，2岁10个月孩子符合表列2—3岁
+ 范围。这是小月龄互动项目，不是14:30的3—12岁「墨西哥
+ 鸡肉卷」烹饪课。建议11:00先处理午餐外卖下单，活动后
+ 留20分钟返回用餐位置，12:00吃午餐。\n依据你提供的仁
+ 恒皇冠「美洲风味之旅」活动表：27日周二为墨西哥主题
+ ，28日周三为巴西主题，29日周四为阿根廷主题。这是行
+ 程安排，不是报名或预约回执。实际举办、家庭场幼儿
+ 参加条件、是否包含住店套餐及临时名额由酒店当天确
+ 认；表中未标预约不等于保证随到随进。幼儿须成人全
+ 程陪同，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:9
-LAST-MODIFIED:20261025T124830Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
-TRIGGER:-PT15M
-DESCRIPTION:塔可Taco的菜单｜2—3岁专场·周二
+TRIGGER:-PT10M
+DESCRIPTION:塔可Taco的菜单｜2—3岁专场
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f65b53fc-36dc-54dc-883e-5c3393a24c4e@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T120000
 DTEND;TZID=Asia/Shanghai:20261027T124500
 SUMMARY:外卖午餐｜翠华候选，酒店用餐
@@ -853,8 +881,8 @@ DESCRIPTION:11:00查看配送，目标12:00左右用餐。首选：翠华
  价。\n来源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -863,26 +891,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a21e6250-308e-586c-aa0c-7dd317372f5a@travel.local
-DTSTAMP:20261025T124830Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T124500
 DTEND;TZID=Asia/Shanghai:20261027T150000
 SUMMARY:酒店自由休息｜下午旅拍前留足准备时间
 LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号
-DESCRIPTION:按状态选择房间或酒店适宜位置休息，不强制午
- 睡；15:30开始拟定的旅拍准备。15:15先查看晚餐预约配送
- ，避免拍摄时临时找餐厅。\n14:30—14:50「青蛙收豆子」
- （奇林幻境，2—3岁专场）仅作上午专场未参加时的替代
- ：已自然睡醒、状态好且不影响15:30旅拍准备才考虑，不
- 叫醒赶课，不再新增一条固定活动。当天17:20泡泡秀与旅
- 拍尾段重叠，不安排，留到28日。
+DESCRIPTION:12:45午餐后自由休息，不强制午睡；15:30开始拟
+ 定的旅拍准备。15:15先查看晚餐预约配送。14:30—14:50「
+ 青蛙收豆子」（奇林幻境，2—3岁）仅作为上午专场未参
+ 加时的备选；孩子状态合适、也不影响旅拍准备才去。17
+ :20泡泡秀与16:30—17:30旅拍冲突，本日不排泡泡秀。晚饭
+ 后若孩子仍有精神，可自行选择20:20—20:45儿童餐厅的晚
+ 安绘本；不设提醒，不为活动推迟休息。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:9
-LAST-MODIFIED:20261025T124830Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:58ee6e0f-fa1c-51f5-b5c9-daf813e97a79@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T153000
 DTEND;TZID=Asia/Shanghai:20261027T163000
 SUMMARY:套餐旅拍准备｜服装、化妆（待预约）
@@ -891,8 +919,8 @@ DESCRIPTION:建议时段，配合摄影师实际档期调整。提前告知
  孕30周、幼儿及手动轮椅需求，减少换装和换场地。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -901,7 +929,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:80fa1806-e4f9-5ec0-8415-c3a03e6ea996@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T163000
 DTEND;TZID=Asia/Shanghai:20261027T173000
 SUMMARY:套餐赠送旅拍｜10张精选电子底片（待预约）
@@ -916,12 +944,12 @@ DESCRIPTION:酒店花园、平整步道和容易到达的海景位置拍摄
  ，事先由摄影师确认许可与路线。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:957f37ab-837f-5012-aaf0-422f7d7c4372@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261027T181500
 DTEND;TZID=Asia/Shanghai:20261027T191500
 SUMMARY:外卖晚餐｜黎竹候选，旅拍后用餐
@@ -970,8 +998,8 @@ DESCRIPTION:15:15提前提醒：查看能否预约18:00—18:15附近配送
  源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT180M
@@ -980,7 +1008,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:97c68756-95f2-51fd-998b-8a3f934b621a@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T080000
 DTEND;TZID=Asia/Shanghai:20261028T090000
 SUMMARY:酒店自助早餐（套餐已含）
@@ -994,12 +1022,12 @@ DESCRIPTION:酒店西餐厅。套餐含每日2大2小早餐，儿童12岁
  当日免费儿童活动表，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9062a7bc-f4dd-57f2-a8ed-926d26e47e39@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T094000
 DTEND;TZID=Asia/Shanghai:20261028T113000
 SUMMARY:水族馆｜大使环礁湖＋水母（含去程）
@@ -1031,8 +1059,8 @@ DESCRIPTION:09:40从酒店出发，约10:00入馆，11:30结束后直接去
  zqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1041,7 +1069,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4f065553-6d6f-575e-913a-cd796ae0f0f8@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T113000
 DTEND;TZID=Asia/Shanghai:20261028T134500
 SUMMARY:堂食午餐｜椰小鸡，水族馆后顺路吃（含返店）
@@ -1079,118 +1107,149 @@ DESCRIPTION:11:30水族馆结束直接去海棠68，约11:50到店，吃完
  来源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:87910f3c-4491-528c-9d95-2867cd321014@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T134500
-DTEND;TZID=Asia/Shanghai:20261028T153000
-SUMMARY:酒店自由活动／休息｜下午不再专程外出
+DTEND;TZID=Asia/Shanghai:20261028T142000
+SUMMARY:返店坐休｜14:30小月龄活动前留缓冲
 LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号
-DESCRIPTION:水族馆及午餐后留在酒店，按状态选择坐休、回
- 房或亲子活动；17:00查看晚餐配送。
+DESCRIPTION:水族馆及椰小鸡午餐后返店，先喝水、如厕和坐
+ 休。14:30的果串集结可按状态跳过，若返店晚或孩子要休
+ 息，不赶场。下午留在酒店，17:00查看晚餐配送；泡泡秀
+ 后预计18:15用餐。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b29f436c-c36c-599f-ae7b-192dd3a81c50@travel.local
+DTSTAMP:20261025T125934Z
+DTSTART;TZID=Asia/Shanghai:20261028T143000
+DTEND;TZID=Asia/Shanghai:20261028T145000
+SUMMARY:果串集结｜2—3岁专场
+LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号，奇
+ 林幻境
+DESCRIPTION:周三巴西主题小月龄活动，适合表列2—3岁。按
+ 游戏实际内容由成人陪同，不将活动名称视为已包含正
+ 餐或水果餐。若当天返店较晚或孩子想休息，直接跳过
+ ；结束后至17:20泡泡秀前保留弹性空档。若更想挖沙或补
+ 看15楼270°无边池，可用15:45—16:30短时体验替换本项，二
+ 选一，不把所有项目排成连续打卡。普通轮椅留在硬质
+ 地面；泳池可只观海坐休，开放和通路仍请管家确认。\n
+ 依据你提供的仁恒皇冠「美洲风味之旅」活动表：27日周
+ 二为墨西哥主题，28日周三为巴西主题，29日周四为阿根
+ 廷主题。这是行程安排，不是报名或预约回执。实际举
+ 办、家庭场幼儿参加条件、是否包含住店套餐及临时名
+ 额由酒店当天确认；表中未标预约不等于保证随到随进
+ 。幼儿须成人全程陪同，不默认托管。
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT10M
+DESCRIPTION:果串集结｜2—3岁专场
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b97ba9ab-6d86-53b4-a61e-522b1e232d99@travel.local
-DTSTAMP:20261025T124830Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T172000
 DTEND;TZID=Asia/Shanghai:20261028T175000
-SUMMARY:泡泡秀｜家庭场·可选，替换挖沙不叠加
-LOCATION:仁恒皇冠假日酒店·儿童泳池
-DESCRIPTION:周三巴西亚马逊嘉年华，用户提供的活动表列17:
- 20—17:50家庭泡泡秀。当天上午水族馆、午餐后先回房休
- 息；17:00先查看晚餐配送，再到儿童池。结束后回用餐点
- ，18:00左右晚餐，按实际清洗及取餐需要调整，不赶场。
- \n这是观看家庭秀的可选安排，不默认需要下水；先确认
- 2岁10个月幼儿可参加的位置、陪同方式、是否涉及水中
- 活动及费用。水边由成人近身专心看护，不能因有工作
- 人员而托管。\n替换而非叠加原15:45—16:45挖沙时段；若
- 取消、天气不合适、孩子累或不适龄，直接休息，或选
- 择原15:45—16:45窗口短时挖沙／奇林幻境低龄区，二选一
- 。挖沙用具和躺椅沿用套餐权益，以现场库存及可达位
- 置为准。\n当天11:20「雨林笔记」与水族馆行程重叠不安
- 排；14:30「果串集结」不挤占午后休息。3—8岁「彩色亚
- 马逊」和3—12岁预约烤肉串不默认适龄。\n依据10月25日
- 提供的酒店「美洲风味之旅」活动表；实际举办、家庭
- 场幼儿参加条件、费用及预约要求请酒店当天确认，日
- 历不代表报名成功。幼儿须成人全程陪同，不默认托管
- 。
+SUMMARY:泡泡秀｜家庭场·按状态参加
+LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号，儿
+ 童泳池
+DESCRIPTION:你提供的酒店表列泡泡秀17:20—17:50，地点为儿
+ 童泳池；这是家庭场。提前询问适合幼儿和轮椅停留的
+ 位置。不要求下水，孩子由成人近身照看，避开湿滑区
+ 域；遇天气或身体状态不合适可取消。17:00先查看晚餐预
+ 约配送，目标18:15用餐；结束后预留25分钟擦洗、更衣、
+ 返回和取餐。17:20之前的空档自由休息，沙滩或无边池只
+ 作为14:30活动的替代，不再另设一场必去项目。\n依据你
+ 提供的仁恒皇冠「美洲风味之旅」活动表：27日周二为墨
+ 西哥主题，28日周三为巴西主题，29日周四为阿根廷主题
+ 。这是行程安排，不是报名或预约回执。实际举办、家
+ 庭场幼儿参加条件、是否包含住店套餐及临时名额由酒
+ 店当天确认；表中未标预约不等于保证随到随进。幼儿
+ 须成人全程陪同，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:9
-LAST-MODIFIED:20261025T124830Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
-DESCRIPTION:泡泡秀｜家庭场·可选，替换挖沙不叠加
+DESCRIPTION:泡泡秀｜家庭场·按状态参加
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9ed056ce-264c-5c89-a5ef-794ba24e2fc7@travel.local
-DTSTAMP:20261025T065143Z
-DTSTART;TZID=Asia/Shanghai:20261028T180000
-DTEND;TZID=Asia/Shanghai:20261028T190000
+DTSTAMP:20261025T125934Z
+DTSTART;TZID=Asia/Shanghai:20261028T181500
+DTEND;TZID=Asia/Shanghai:20261028T191500
 SUMMARY:外卖晚餐｜必胜客候选，酒店用餐
 LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号
-DESCRIPTION:椰小鸡已移到当天午餐，此条改为17:00提醒查看
- 、18:00左右用餐的外卖晚餐。首选：必胜客（海棠68环球
- 美食街店／君悦店），海棠北路68号海棠68环球美食街商
- 业区。核对实际出餐门店与堂食地址，避免只凭品牌名
- 默认同一家店。可选全熟披萨、焗饭或意面，按当天外
- 送菜单；两大一小餐费预留150—220元，不含配送包装。\n
- 实体门店：https://hk.trip.com/restaurant/china/sanya/detail/pizza-hut
- -44214824/\n外卖候选，不代表已下单或已确认配送。先把
- 平台收货地址设为仁恒皇冠海棠北路98号，核对具体分店
- 、堂食地址、营业资质、近期实拍及关于出餐卫生和包
- 装的评价；有堂食不等于品质保证。若指定店不配送，
- 换同一候选名单中可送达的实体堂食店，不为凑店名临
- 时选地址不清的外卖店。\n用餐前约45—60分钟查看平台
- 预计送达时间并下单；支持预约时选择接近用餐时间的
- 时段。返店途中下单应结合实时到店时间，宁可到酒店
- 稍等，不让饭菜先在取餐点久放。提前联系管家确认外
- 卖交接点、取餐距离及是否能协助取送，不默认骑手可
- 进房间或礼宾一定代取。酒店旧住客问答提及路口外卖
- 柜，只作历史线索：https://you.ctrip.com/asks/detail?askId=9355979
- \n优先现做、全熟的菜饭，汤汁分装、包装封好，送到及
- 时取餐食用；按两大一小点量，不一次囤两餐。不安排
- 生食、需在客房自行煮熟的火锅生料。建议备注：两位
- 成人和一位幼儿，肉蛋全熟、少辣、汤饭分装，送达请
- 电话联系。配送和包装费以结算页为准，另于打车预算
- 。\n\n打车预算：本餐采用外卖，无计划打车费用；配送
- 、包装或另请跑腿取餐费用另付，不计作打车费。若临
- 时改堂食，再按实际路线追加车费。\n\n估算口径：人民
- 币，一辆普通巡游出租车供本次三人合乘，不是人均；
- 按路线距离粗估并留余量，未取得实时导航或叫车报价
- 。实际以计价器为准，普通网约车可能更便宜，也可能
- 有动态加价。不含包车候时、另收的停车费、儿童安全
- 座椅服务及升级专车或商务车的费用。\n预约前说明两位
- 成人、一位幼儿、折叠手动轮椅及行李件数，并确认适
- 龄儿童安全座椅与后备厢空间。普通出租车不能默认提
- 供儿童安全座椅；如需配座椅或升级车型，按商家确认
- 报价替换本估算。\n费率参考：凤凰机场官网公示一／二
- 类出租车起步11／10元（2.5公里），超起步后2.4／2.2元每
- 公里，超过10公里部分综合3.6／3.3元每公里。路线费用是
- 据此所作预算，不是官网提供的线路报价。\n来源：https:
- //www.sanyaairport.com/czqc
+DESCRIPTION:17:00提醒先查看配送并选餐，目标18:15用餐，给17
+ :20—17:50泡泡秀后留25分钟整理取餐。若平台支持预约，
+ 选择18:15附近送达；否则按实时预计时长在约17:15下单，
+ 不让餐食提前久放。椰小鸡已安排当天午餐，晚餐首选
+ 实体店：必胜客（海棠68环球美食街店／君悦店），海棠
+ 北路68号海棠68环球美食街商业区。可选全熟披萨、焗饭
+ 或意面，按当天外送菜单；两大一小餐费预留150—220元
+ ，不含配送包装。19:30仍按原计划整理行李。\n实体门店
+ ：https://hk.trip.com/restaurant/china/sanya/detail/pizza-hut-44214824/\n
+ 外卖候选，不代表已下单或已确认配送。先把平台收货
+ 地址设为仁恒皇冠海棠北路98号，核对具体分店、堂食地
+ 址、营业资质、近期实拍及关于出餐卫生和包装的评价
+ ；有堂食不等于品质保证。若指定店不配送，换同一候
+ 选名单中可送达的实体堂食店，不为凑店名临时选地址
+ 不清的外卖店。\n用餐前约45—60分钟查看平台预计送达
+ 时间并下单；支持预约时选择接近用餐时间的时段。返
+ 店途中下单应结合实时到店时间，宁可到酒店稍等，不
+ 让饭菜先在取餐点久放。提前联系管家确认外卖交接点
+ 、取餐距离及是否能协助取送，不默认骑手可进房间或
+ 礼宾一定代取。酒店旧住客问答提及路口外卖柜，只作
+ 历史线索：https://you.ctrip.com/asks/detail?askId=9355979\n优先现
+ 做、全熟的菜饭，汤汁分装、包装封好，送到及时取餐
+ 食用；按两大一小点量，不一次囤两餐。不安排生食、
+ 需在客房自行煮熟的火锅生料。建议备注：两位成人和
+ 一位幼儿，肉蛋全熟、少辣、汤饭分装，送达请电话联
+ 系。配送和包装费以结算页为准，另于打车预算。\n\n打
+ 车预算：本餐采用外卖，无计划打车费用；配送、包装
+ 或另请跑腿取餐费用另付，不计作打车费。若临时改堂
+ 食，再按实际路线追加车费。\n\n估算口径：人民币，一
+ 辆普通巡游出租车供本次三人合乘，不是人均；按路线
+ 距离粗估并留余量，未取得实时导航或叫车报价。实际
+ 以计价器为准，普通网约车可能更便宜，也可能有动态
+ 加价。不含包车候时、另收的停车费、儿童安全座椅服
+ 务及升级专车或商务车的费用。\n预约前说明两位成人、
+ 一位幼儿、折叠手动轮椅及行李件数，并确认适龄儿童
+ 安全座椅与后备厢空间。普通出租车不能默认提供儿童
+ 安全座椅；如需配座椅或升级车型，按商家确认报价替
+ 换本估算。\n费率参考：凤凰机场官网公示一／二类出租
+ 车起步11／10元（2.5公里），超起步后2.4／2.2元每公里，
+ 超过10公里部分综合3.6／3.3元每公里。路线费用是据此所
+ 作预算，不是官网提供的线路报价。\n来源：https://www.san
+ yaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
-TRIGGER:-PT60M
+TRIGGER:-PT75M
 DESCRIPTION:外卖晚餐｜必胜客候选，酒店用餐
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a296e9d6-1cae-50a7-9446-72d9477f9fbe@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T193000
 DTEND;TZID=Asia/Shanghai:20261028T200000
 SUMMARY:整理行李、核对返程用品
@@ -1200,12 +1259,12 @@ DESCRIPTION:证件、产检资料、日常用药、孩子换洗衣物、水
  次日送机预约已成功。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaf3f82-63b7-5d95-9df0-0bc80dfb360c@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261028T200000
 DTEND;TZID=Asia/Shanghai:20261028T200500
 SUMMARY:20:00截止｜确认29日送机巴士预约
@@ -1220,8 +1279,8 @@ DESCRIPTION:预约29日12:30酒店送机巴士，最迟提前一天20:00前
  前准备好。不为外卖延误送机。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT120M
@@ -1230,7 +1289,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3dfbeb0e-3761-59ae-bda2-2edf7dcf3996@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T080000
 DTEND;TZID=Asia/Shanghai:20261029T090000
 SUMMARY:酒店自助早餐（套餐已含）
@@ -1244,35 +1303,37 @@ DESCRIPTION:酒店西餐厅。套餐含每日2大2小早餐，儿童12岁
  当日免费儿童活动表，不默认托管。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:20261029-muyang-short-family@travel.local
-DTSTAMP:20261025T124830Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T103000
 DTEND;TZID=Asia/Shanghai:20261029T105000
-SUMMARY:牧羊兜兜｜家庭场可选·短参与至10:50
-LOCATION:仁恒皇冠假日酒店·奇林幻境
-DESCRIPTION:周四阿根廷主题家庭活动，酒店表列完整场次10:
- 30—11:00；本行程只预留10:30—10:50，须确认可中途离场，
- 提前结束留10分钟返回午餐点。仅在行李已收好、10:00外
- 卖与送机安排已确认且孩子愿意时参加；否则直接跳过
- ，不影响11:00午餐、11:40退房。\n11:20—11:40「草原动物识
- 图」虽为2—3岁专场，但与午餐、退房冲突，不排；14:30
- 「桌面棋会」已在送机行程内，也不安排。\n依据10月25
- 日提供的酒店「美洲风味之旅」活动表；实际举办、家
- 庭场幼儿参加条件、费用及预约要求请酒店当天确认，
- 日历不代表报名成功。幼儿须成人全程陪同，不默认托
- 管。
+SUMMARY:可选｜牧羊兜兜·短参与至10:50
+LOCATION:三亚海棠湾仁恒皇冠假日酒店，海棠北路98号，奇
+ 林幻境
+DESCRIPTION:周四阿根廷主题家庭场，酒店完整场次为10:30—1
+ 1:00；本行程只预留10:30—10:50，须确认允许中途离场且10
+ 分钟内能回到用餐位置。仅在行李收好、10:00外卖及送机
+ 安排已确认、孩子愿意时参加；否则直接跳过。11:00早午
+ 餐、11:40退房、12:30拟定送机优先。11:20「草原动物识图
+ 」与午餐冲突，14:30「桌面棋会」已在送机行程内，因此
+ 不安排。\n依据你提供的仁恒皇冠「美洲风味之旅」活动
+ 表：27日周二为墨西哥主题，28日周三为巴西主题，29日
+ 周四为阿根廷主题。这是行程安排，不是报名或预约回
+ 执。实际举办、家庭场幼儿参加条件、是否包含住店套
+ 餐及临时名额由酒店当天确认；表中未标预约不等于保
+ 证随到随进。幼儿须成人全程陪同，不默认托管。
 STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-SEQUENCE:9
-LAST-MODIFIED:20261025T124830Z
+TRANSP:OPAQUE
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac507f1-9e22-558d-8021-3f84a189db06@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T110000
 DTEND;TZID=Asia/Shanghai:20261029T114000
 SUMMARY:外卖早午餐｜绿茶候选，午餐后退房
@@ -1321,8 +1382,8 @@ DESCRIPTION:前一天确认早午餐配送。10:00查看可下单门店和
  线路报价。\n来源：https://www.sanyaairport.com/czqc
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
@@ -1331,7 +1392,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:62695fb7-1d21-5e0d-9877-98ce56e3158f@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T114000
 DTEND;TZID=Asia/Shanghai:20261029T120000
 SUMMARY:午餐后退房｜取齐行李、准备送机
@@ -1343,12 +1404,12 @@ DESCRIPTION:早午餐在酒店吃外部餐厅外卖，随后办理退房，
  退房。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:47b4c9fb-db0b-525c-87ac-333e14d1fc8c@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T123000
 DTEND;TZID=Asia/Shanghai:20261029T133000
 SUMMARY:酒店送机巴士（待预约及确认车程）
@@ -1363,8 +1424,8 @@ DESCRIPTION:12:30班次是拟选方案，尚不代表预约成功。此处
  接送安排执行。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1373,7 +1434,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:392b81fb-2762-5b6b-ae27-d3c4ea44eea7@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T133000
 DTEND;TZID=Asia/Shanghai:20261029T153000
 SUMMARY:三亚机场：值机、托运、安检及候机
@@ -1382,12 +1443,12 @@ DESCRIPTION:办理南航CZ6189返程手续。按南航通知核对航站楼
  、登机口和截止办理时间。提前说明折叠轮椅需求。
 STATUS:TENTATIVE
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c04f9a-83ee-552e-b3cb-64fa16e4e579@travel.local
-DTSTAMP:20261025T065143Z
+DTSTAMP:20261025T125934Z
 DTSTART;TZID=Asia/Shanghai:20261029T160000
 DTEND;TZID=Asia/Shanghai:20261029T190000
 SUMMARY:CZ6189｜三亚凤凰 → 成都天府
@@ -1396,8 +1457,8 @@ DESCRIPTION:南方航空CZ6189。票面起飞16:00，抵达19:00，均为
  北京时间。航班及航站楼以南航通知为准。
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SEQUENCE:8
-LAST-MODIFIED:20261025T065143Z
+SEQUENCE:10
+LAST-MODIFIED:20261025T125934Z
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT60M
