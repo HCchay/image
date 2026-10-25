@@ -1,5 +1,5 @@
 {
-  "schema": "hechun-calendar-sync/v1",
+  "schema": "hechun-calendar-sync/v2",
   "collection_id": "sanya-2026-10-24-29",
   "target_calendar_name": "何春共享日历",
   "managed_marker": "[HC_SYNC:sanya-2026-10-24-29]",
@@ -10,7 +10,7 @@
   "time_zone": "Asia/Shanghai",
   "source_ics_url": "https://raw.githubusercontent.com/HCchay/image/hechun-calendar/calendar.ics",
   "source_sha256": "75470037376681414ed20fb5142fdf57060074acfd2165ac60877336835b2c02",
-  "events_sha256": "6751a0ef7916e1de221e560405e153ca328fd968b5ca95baf9171a7d648e31a7",
+  "events_sha256": "fe432761dc31abe9a7ccf3bc11ac0bfcc9e8fbf5bd5acceeb752b6c1b7a79bf4",
   "events": [
     {
       "id": "7fc5f86a-59e7-5f29-9c95-09008c39b3e5@travel.local",
@@ -24,6 +24,7 @@
       "event_marker": "[HC_EVENT:7fc5f86a-59e7-5f29-9c95-09008c39b3e5@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "CONFIRMED"
     },
@@ -39,6 +40,7 @@
       "event_marker": "[HC_EVENT:6b24d36f-1d90-53c8-b1d3-2dcfdc47442c@travel.local]",
       "alarm_minutes": 120,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-24T10:10:00+08:00",
       "status": "CONFIRMED"
     },
@@ -54,6 +56,7 @@
       "event_marker": "[HC_EVENT:6d8d3a74-7301-5877-9a51-f834b8b1c8f8@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -69,6 +72,7 @@
       "event_marker": "[HC_EVENT:9c5ce9e7-a563-53e1-9f5c-7efa292d660d@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -84,6 +88,7 @@
       "event_marker": "[HC_EVENT:045bf447-f347-58ea-b706-143d175cf659@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -99,6 +104,7 @@
       "event_marker": "[HC_EVENT:03bc288c-59fa-5f37-b24a-a9befe1d9ee4@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -114,6 +120,7 @@
       "event_marker": "[HC_EVENT:4f8d694e-89e5-5a37-8805-92efba97d13f@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -129,6 +136,7 @@
       "event_marker": "[HC_EVENT:272339b1-9d5b-5550-87d1-1ec77b155884@travel.local]",
       "alarm_minutes": 60,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-25T10:45:00+08:00",
       "status": "TENTATIVE"
     },
@@ -144,6 +152,7 @@
       "event_marker": "[HC_EVENT:fe294608-90ea-559b-ac19-cf2b3604778f@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -159,6 +168,7 @@
       "event_marker": "[HC_EVENT:a72199fb-22ec-55b9-9ddb-de572986b81b@travel.local]",
       "alarm_minutes": 15,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-25T15:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -174,6 +184,7 @@
       "event_marker": "[HC_EVENT:079bb680-5638-5cd6-9bbf-361f95279609@travel.local]",
       "alarm_minutes": 15,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-25T15:30:00+08:00",
       "status": "TENTATIVE"
     },
@@ -189,6 +200,7 @@
       "event_marker": "[HC_EVENT:ca90d1b1-27de-5d50-93ce-772e56ca67f3@travel.local]",
       "alarm_minutes": 60,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-25T17:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -204,6 +216,7 @@
       "event_marker": "[HC_EVENT:b0b6e120-f80a-528c-a221-38ba77005c24@travel.local]",
       "alarm_minutes": 120,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-25T18:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -219,6 +232,7 @@
       "event_marker": "[HC_EVENT:de056e3c-e711-524d-9527-f96694f133c6@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -234,6 +248,7 @@
       "event_marker": "[HC_EVENT:c9df6a09-0781-5be1-849b-5765249dde1e@travel.local]",
       "alarm_minutes": 30,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-26T07:30:00+08:00",
       "status": "TENTATIVE"
     },
@@ -249,6 +264,7 @@
       "event_marker": "[HC_EVENT:fce6a766-8a6c-5842-b583-4b0122a7ca6d@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -264,6 +280,7 @@
       "event_marker": "[HC_EVENT:521087eb-2b7b-5540-938e-85a68300edd3@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -279,6 +296,7 @@
       "event_marker": "[HC_EVENT:da6683d1-2ad7-5cb3-8926-405a7269c05d@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -294,6 +312,7 @@
       "event_marker": "[HC_EVENT:f006e7dd-9c9a-57a3-89af-8c72b63312b9@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -309,6 +328,7 @@
       "event_marker": "[HC_EVENT:f0a082a4-9e50-5b3d-8b79-045ef7e28198@travel.local]",
       "alarm_minutes": 30,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-26T15:15:00+08:00",
       "status": "TENTATIVE"
     },
@@ -324,6 +344,7 @@
       "event_marker": "[HC_EVENT:9925e29e-b1bb-5605-be1f-091da55f7144@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -339,6 +360,7 @@
       "event_marker": "[HC_EVENT:2d3962d9-8528-5916-a47b-74f92a0019cf@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -354,6 +376,7 @@
       "event_marker": "[HC_EVENT:0da8390a-d6b5-52d7-b810-774f42863dd4@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -369,6 +392,7 @@
       "event_marker": "[HC_EVENT:03e94025-e4db-5522-b65e-7b97ac943578@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -384,6 +408,7 @@
       "event_marker": "[HC_EVENT:58b97ccb-0e16-5337-bb42-4a9e80ca316a@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -399,6 +424,7 @@
       "event_marker": "[HC_EVENT:7c0eedf0-b4ba-5730-a84c-8d7af67ff88d@travel.local]",
       "alarm_minutes": 10,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-27T11:10:00+08:00",
       "status": "TENTATIVE"
     },
@@ -414,6 +440,7 @@
       "event_marker": "[HC_EVENT:f65b53fc-36dc-54dc-883e-5c3393a24c4e@travel.local]",
       "alarm_minutes": 60,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-27T11:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -429,6 +456,7 @@
       "event_marker": "[HC_EVENT:a21e6250-308e-586c-aa0c-7dd317372f5a@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -444,6 +472,7 @@
       "event_marker": "[HC_EVENT:58ee6e0f-fa1c-51f5-b5c9-daf813e97a79@travel.local]",
       "alarm_minutes": 30,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-27T15:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -459,6 +488,7 @@
       "event_marker": "[HC_EVENT:80fa1806-e4f9-5ec0-8415-c3a03e6ea996@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -474,6 +504,7 @@
       "event_marker": "[HC_EVENT:957f37ab-837f-5012-aaf0-422f7d7c4372@travel.local]",
       "alarm_minutes": 180,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-27T15:15:00+08:00",
       "status": "TENTATIVE"
     },
@@ -489,6 +520,7 @@
       "event_marker": "[HC_EVENT:97c68756-95f2-51fd-998b-8a3f934b621a@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -504,6 +536,7 @@
       "event_marker": "[HC_EVENT:9062a7bc-f4dd-57f2-a8ed-926d26e47e39@travel.local]",
       "alarm_minutes": 30,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-28T09:10:00+08:00",
       "status": "TENTATIVE"
     },
@@ -519,6 +552,7 @@
       "event_marker": "[HC_EVENT:4f065553-6d6f-575e-913a-cd796ae0f0f8@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -534,6 +568,7 @@
       "event_marker": "[HC_EVENT:87910f3c-4491-528c-9d95-2867cd321014@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -549,6 +584,7 @@
       "event_marker": "[HC_EVENT:b29f436c-c36c-599f-ae7b-192dd3a81c50@travel.local]",
       "alarm_minutes": 10,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-28T14:20:00+08:00",
       "status": "TENTATIVE"
     },
@@ -564,6 +600,7 @@
       "event_marker": "[HC_EVENT:b97ba9ab-6d86-53b4-a61e-522b1e232d99@travel.local]",
       "alarm_minutes": 15,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-28T17:05:00+08:00",
       "status": "TENTATIVE"
     },
@@ -579,6 +616,7 @@
       "event_marker": "[HC_EVENT:9ed056ce-264c-5c89-a5ef-794ba24e2fc7@travel.local]",
       "alarm_minutes": 75,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-28T17:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -594,6 +632,7 @@
       "event_marker": "[HC_EVENT:a296e9d6-1cae-50a7-9446-72d9477f9fbe@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -609,6 +648,7 @@
       "event_marker": "[HC_EVENT:8eaf3f82-63b7-5d95-9df0-0bc80dfb360c@travel.local]",
       "alarm_minutes": 120,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-28T18:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -624,6 +664,7 @@
       "event_marker": "[HC_EVENT:3dfbeb0e-3761-59ae-bda2-2edf7dcf3996@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -639,6 +680,7 @@
       "event_marker": "[HC_EVENT:20261029-muyang-short-family@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -654,6 +696,7 @@
       "event_marker": "[HC_EVENT:5ac507f1-9e22-558d-8021-3f84a189db06@travel.local]",
       "alarm_minutes": 60,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-29T10:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -669,6 +712,7 @@
       "event_marker": "[HC_EVENT:62695fb7-1d21-5e0d-9877-98ce56e3158f@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -684,6 +728,7 @@
       "event_marker": "[HC_EVENT:47b4c9fb-db0b-525c-87ac-333e14d1fc8c@travel.local]",
       "alarm_minutes": 30,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-29T12:00:00+08:00",
       "status": "TENTATIVE"
     },
@@ -699,6 +744,7 @@
       "event_marker": "[HC_EVENT:392b81fb-2762-5b6b-ae27-d3c4ea44eea7@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
+      "alert_mode": "none",
       "alert_at": "",
       "status": "TENTATIVE"
     },
@@ -714,6 +760,7 @@
       "event_marker": "[HC_EVENT:d7c04f9a-83ee-552e-b3cb-64fa16e4e579@travel.local]",
       "alarm_minutes": 60,
       "has_alarm": true,
+      "alert_mode": "custom",
       "alert_at": "2026-10-29T15:00:00+08:00",
       "status": "CONFIRMED"
     }
