@@ -3,14 +3,14 @@
   "collection_id": "sanya-2026-10-24-29",
   "target_calendar_name": "何春共享日历",
   "managed_marker": "[HC_SYNC:sanya-2026-10-24-29]",
-  "revision": 12,
+  "revision": 13,
   "event_count": 47,
   "window_start": "2026-10-24T00:00:00+08:00",
   "window_end": "2026-10-30T00:00:00+08:00",
   "time_zone": "Asia/Shanghai",
   "source_ics_url": "https://raw.githubusercontent.com/HCchay/image/hechun-calendar/calendar.ics",
-  "source_sha256": "88dd296e83f395092cd0198876299ca0d16d7b47a1a308fdf72b178ef5b25c22",
-  "events_sha256": "a298ac92ea087ed1c12c0541423df82d46e03015ef9bf1b9bd95209c259a7b19",
+  "source_sha256": "3429852be6d441c1f88057718042320b7c6bae679d0a7a17ba269fdfc38032da",
+  "events_sha256": "2ab16f2f0503c34b7b34c2367b8b9192c4524e5ba4a1715cb743d5106a2254ea",
   "events": [
     {
       "id": "7fc5f86a-59e7-5f29-9c95-09008c39b3e5@travel.local",
@@ -318,19 +318,19 @@
     },
     {
       "id": "f0a082a4-9e50-5b3d-8b79-045ef7e28198@travel.local",
-      "title": "椰梦长廊｜短停看海，晚到则缩短",
+      "title": "已取消｜椰梦长廊短停",
       "start": "2026-10-26T17:40:00+08:00",
       "end": "2026-10-26T18:15:00+08:00",
       "all_day": false,
       "end_is_exclusive": true,
       "location": "三亚湾椰梦长廊，海月广场段硬质步道",
-      "notes": "按南山约16:25出发、转场预留75分钟，暂排17:40—18:15短停。到达时间只是计划估计，非实时导航；若离园或路上更久，就缩短或跳过海边，不延长整晚行程。选择海月广场段或司机确认方便落客的硬质步道，短走多坐，不走完整条长廊，不推轮椅进入沙地。18:15晚餐时段含短途接驳，继续按原计划，不保证看到日落；日落受天气与实际到达时间影响。\n官方三亚湾介绍：https://www.visitsanya.com/zh/destination/三亚湾\n海月广场位置：https://you.ctrip.com/sight/sanya61/1416772.html\n\n[HC_SYNC:sanya-2026-10-24-29]\n[HC_EVENT:f0a082a4-9e50-5b3d-8b79-045ef7e28198@travel.local]",
+      "notes": "用户已取消2026年10月26日椰梦长廊活动，不再前往。本条保留原事件标识用于同步取消；后续目的地及路线等待确认，不将原定转场或海边游览视为实际发生。晚餐和返店安排本次未修改。\n\n[HC_SYNC:sanya-2026-10-24-29]\n[HC_EVENT:f0a082a4-9e50-5b3d-8b79-045ef7e28198@travel.local]",
       "event_marker": "[HC_EVENT:f0a082a4-9e50-5b3d-8b79-045ef7e28198@travel.local]",
       "alarm_minutes": null,
       "has_alarm": false,
       "alert_mode": "none",
       "alert_at": "",
-      "status": "TENTATIVE"
+      "status": "CANCELLED"
     },
     {
       "id": "9925e29e-b1bb-5605-be1f-091da55f7144@travel.local",
